@@ -1,2 +1,2 @@
 # HeidiSQLPortable
-PortableApps.com packages for HeidiSQL
+HeidiSQL in PortableApps.com Format
